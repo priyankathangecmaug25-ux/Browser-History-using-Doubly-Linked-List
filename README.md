@@ -30,6 +30,7 @@ Moved to previous page: www.github.com
 Moved to next page: www.openai.com
 
 Full Browser History:
+
 www.google.com
 
 www.github.com
