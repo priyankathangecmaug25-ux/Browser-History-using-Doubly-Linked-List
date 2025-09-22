@@ -22,16 +22,20 @@ D:\CDAC\ADS>java BrowserHistoryDLL
 Visited: www.google.com
 Visited: www.github.com
 Visited: www.openai.com
+
 Current Page: www.openai.com
+
 Moved to previous page: www.github.com
-Current Page: www.github.com
+
 Moved to next page: www.openai.com
-Current Page: www.openai.com
 
 Full Browser History:
 www.google.com
+
 www.github.com
+
 www.openai.com
 
 Browser history cleared.
+
 No history available.
